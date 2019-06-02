@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: #353b48;
+}
+.box{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+.box ion-icon{
+    text-decoration: none;
+    color: white;
+    font-size: 40px;
+    margin: 15px;
+    display: flex;
+    width: 50px;
+    height: 50px;
+    justify-content: center;
+    align-items: center;
+    float: left;
+    transition: 0.3s all;
+}
+.fb{
+    background: #2980b9
+}
+.tw{
+    background: #3498db
+}
+.yt{
+    background: #e74c3c
+}
+.wp{
+    background: #27ae60
+}
+.ig{
+    background: #9b59b6
+}
+.box ion-icon:hover{
+    margin-top: -10px;
+}
