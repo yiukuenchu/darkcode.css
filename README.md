@@ -1,5 +1,5 @@
 # Description
-This is a showcase of some **CSS tricks** and **Web designs** I learned from Youtube channel [DarkCode](https://www.youtube.com/channel/UCD3KVjbb7aq2OiOffuungzw).
+This is a showcase of some **CSS tricks** and **Web designs** I learnt from Youtube channel [DarkCode](https://www.youtube.com/channel/UCD3KVjbb7aq2OiOffuungzw).
 
 I consider it a milestone which records the progress I've made in DarkCode courses so far as well.
 
